@@ -1,0 +1,1 @@
+Cette app permet de composer une liste de cuisine à partir des recettes de marmiton, en fonction ingrédients que l'on a déjà.
